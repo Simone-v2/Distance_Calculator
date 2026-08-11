@@ -1,5 +1,6 @@
 import math
 # This imports the math library, with predefined functions
+
 x1 = float(input("Enter x1:"))
 y1 = float(input("Enter y1:"))
 x2 = float(input("Enter x2:"))
