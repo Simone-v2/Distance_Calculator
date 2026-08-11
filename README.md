@@ -1,4 +1,4 @@
-# Distance Calculatr
+# Distance Calculator
 
 ## Description
 My program can calculate the distance of two points
